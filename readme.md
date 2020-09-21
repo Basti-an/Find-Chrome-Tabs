@@ -1,4 +1,5 @@
 # Find your tabs
+![](findTab.gif)
 Simple Chrome extension that allows you to quickly find relevant browser tabs
 
 ## The problem
