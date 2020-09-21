@@ -1,6 +1,6 @@
 # Find your Chrome tabs faster!
+This simple Chrome extension allows you to quickly find relevant browser tabs
 ![gif showing how this extension works](findTab.gif)
-Simple Chrome extension that allows you to quickly find relevant browser tabs
 
 ## The problem
 we all know the feeling- you are working on something tricky and your Browser has a gazillion tabs open; you don't want to close them all yet because they might still be relevant later, but navigating through a sea of tabs is a pain
