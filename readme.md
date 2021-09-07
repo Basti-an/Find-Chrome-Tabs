@@ -1,4 +1,4 @@
-# Find your Chrome tabs faster!
+#  ~~Find your Chrome tabs faster!~~ Deprecated, since Chrome introduced this as a native feature
 This simple Chrome extension allows you to quickly find relevant browser tabs
 ![gif showing how this extension works](findTab.gif)
 
